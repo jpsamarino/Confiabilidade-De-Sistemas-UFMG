@@ -1,0 +1,5 @@
+-Para executar as simulações executar o arquivo 'pega_dados.m';
+
+-Para executar os testes e chegar aos dados finais 'execultar modelos.m'.
+
+- os demias codigos são sub-funções.

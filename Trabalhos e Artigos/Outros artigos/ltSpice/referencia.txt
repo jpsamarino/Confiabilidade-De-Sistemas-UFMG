@@ -1,0 +1,24 @@
+
+Aqui estão alguns exemplos de circuitos que eu peguei na internet, os que tem a indicação ltSpice eu tentei simular e estão na pasta com o mesmo nome.
+
+amplificador de 20w (ltSpice)
+
+http://esquemaseletronicos.xpg.uol.com.br/amplificadorespq.html
+
+fonte 13,8 V 20 A
+
+http://www.consertode.com/som-automotivo/fonte-ac-dc-12v/conserto-fonte-som-automotivo-radioamador
+
+amplificador simples 1 W
+
+http://electronica-moderna.blogspot.com.br/2013/07/circuito-amplificador-con-transistores.html
+
+fonte simples 15 V / 5A
+
+http://www.feiradeciencias.com.br/sala15/15_36b.asp
+
+amplificador 80 W (ltSpice)
+http://www.newtoncbraga.com.br/index.php/eletronica/57-artigos-e-projetos/7972-amplificador-transistorizado-de-80-w-art1058
+
+amplificador 90 W (ltSpice) perdi o link kkkkk
+
